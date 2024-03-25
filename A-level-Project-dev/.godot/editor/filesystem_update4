@@ -1,0 +1,15 @@
+res://Entities/player.tscn
+res://Scripts/hitbox.gd
+res://Scripts/hurtbox.gd
+res://Maps/level1.tscn
+res://Menus/main_menu.tscn
+res://Entities/enemy.tscn
+res://Menus/pause menu.tscn
+res://Menus/HUD.tscn
+res://Maps/tile_map.tscn
+res://Menus/settings.tscn
+res://Scripts/enemy.gd
+res://Scripts/player.gd
+res://Entities/dummy.tscn
+res://Scripts/dummy.gd
+res://Scripts/global.gd
